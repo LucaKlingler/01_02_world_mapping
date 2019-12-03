@@ -10,10 +10,11 @@
   "license": "MIT",
   "dependencies": {
     "chai": "1.9.1",
+    "chalk": "^3.0.0",
     "gulp": "^3.9.0",
     "gulp-eslint": "^2.0.0",
+    "jimp": "^0.8.5",
     "lodash": "4.17.15",
-    "mocha": "1.21.4",
-    "jimp": "^0.8.5"
+    "mocha": "1.21.4"
   }
 }
